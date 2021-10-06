@@ -1,0 +1,2 @@
+Micro:bit programozás 
+git utasítások ismétlése
